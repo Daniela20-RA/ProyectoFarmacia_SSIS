@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.36105.23 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Farmacia-SSIS", "Farmacia-SSIS\Farmacia-SSIS.dtproj", "{783E7E5C-EE58-A4E6-3DCF-67FC817C1E4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{783E7E5C-EE58-A4E6-3DCF-67FC817C1E4C}.Development|Default.ActiveCfg = Development
+		{783E7E5C-EE58-A4E6-3DCF-67FC817C1E4C}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFFC8FF4-26B9-4BE6-9E55-63718B135449}
+	EndGlobalSection
+EndGlobal

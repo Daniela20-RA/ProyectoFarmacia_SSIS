@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-J0NL7FU.SistemaFarmacia"
+  DTS:DTSID="{6670910F-7577-4C44-9848-148C2F36BF74}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=DESKTOP-J0NL7FU;Initial Catalog=SistemaFarmacia;Provider=MSOLEDBSQL.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-Farmacia-SSIS-{6670910F-7577-4C44-9848-148C2F36BF74}DESKTOP-J0NL7FU.SistemaFarmacia;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
